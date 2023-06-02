@@ -1,0 +1,52 @@
+ 1,John Doe,NASA,180,75,5,commando
+2,John Doe,NASA,180,75,5,Commander
+3,Jane Smith,ESA,170,65,3,Engineer
+4,Michael Johnson,Roscosmos,190,85,8,Scientist
+5,John Smith,NASA,180,80,10,Commander
+6,Maria Rodriguez,ESA,165,65,7,Pilot
+7,Ahmed Khan,Roscosmos,175,75,5,Engineer
+8,Emily Chen,CNSA,170,62,8,Scientist
+9,JAlexander Lee,JAXA,175,78,6,Mission Specialist
+10,John Doe,nasa,75,5,2,7
+11,John Doe,NASA,180,75,5,Commander
+12,Jane Smith,ESA,170,65,3,Engineer
+13,Michael Johnson,Roscosmos,190,85,8,Scientist
+14,NASA,usa,80,10,6,kfc
+15,John Doe,NASA,180,75,5,Commander
+16,Jane Smith,ESA,170,65,3,Engineer
+17,Michael Johnson,Roscosmos,190,85,8,Scientist
+18,John Smith,NASA,180,80,10,Commander
+19,Maria Rodriguez,ESA,165,65,7,Pilot
+20,Ahmed Khan,Roscosmos,175,75,5,Engineer
+21,Emily Chen,CNSA,170,62,8,Scientist
+22,JAlexander Lee,JAXA,175,78,6,Mission Specialist
+23,John Doe,nasa,75,5,2,7
+24,NASA,usa,80,10,6,kfc
+25,John Doe,NASA,180,75,5,Commander
+26,Jane Smith,ESA,170,65,3,Engineer
+27,Michael Johnson,Roscosmos,190,85,8,Scientist
+28,John Smith,NASA,180,80,10,Commander
+29,Maria Rodriguez,ESA,165,65,7,Pilot
+30,Ahmed Khan,Roscosmos,175,75,5,Engineer
+31,Emily Chen,CNSA,170,62,8,Scientist
+32,JAlexander Lee,JAXA,175,78,6,Mission Specialist
+33,John Doe,nasa,75,5,2,7
+34,NASA,usa,80,10,6,kfc
+35,John Doe,NASA,180,75,5,Commander
+36,Jane Smith,ESA,170,65,3,Engineer
+37,Michael Johnson,Roscosmos,190,85,8,Scientist
+38,John Smith,NASA,180,80,10,Commander
+39,Maria Rodriguez,ESA,165,65,7,Pilot
+40,Ahmed Khan,Roscosmos,175,75,5,Engineer
+41,Emily Chen,CNSA,170,62,8,Scientist
+42,JAlexander Lee,JAXA,175,78,6,Mission Specialist
+43,John Doe,nasa,75,5,2,7
+44,NASA,usa,80,10,6,kfc
+45,John Doe,NASA,180,75,5,Commander
+46,Jane Smith,ESA,170,65,3,Engineer
+47,Michael Johnson,Roscosmos,190,85,8,Scientist
+48,John Smith,NASA,180,80,10,Commander
+49,Maria Rodriguez,ESA,165,65,7,Pilot
+50,Ahmed Khan,Roscosmos,175,75,5,Engineer
+51,Emily Chen,CNSA,170,62,8,Scientist
+52,JAlexander Lee,JAXA,175,78,6,Mission Specialist

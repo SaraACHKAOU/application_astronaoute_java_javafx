@@ -1,0 +1,50 @@
+[
+ {
+  "id": 1,
+  "name": "John Smith",
+  "yearsOfExperience": 10,
+  "agence": "NASA",
+  "height": 180,
+  "weight": 80,
+  "grade": "Commander"
+ },
+
+
+  {
+   "id": 2,
+   "name": "Maria Rodriguez",
+   "yearsOfExperience": 7,
+   "agence": "ESA",
+   "height": 165,
+   "weight": 65,
+   "grade": "Pilot"
+  },
+   {
+    "id": 3,
+    "name": "Ahmed Khan",
+    "yearsOfExperience": 5,
+    "agence": "Roscosmos",
+    "height": 175,
+    "weight": 75,
+    "grade": "Engineer"
+   },
+    {
+     "id": 4,
+     "name": "Emily Chen",
+     "yearsOfExperience": 8,
+     "agence": "CNSA",
+     "height": 170,
+     "weight": 62,
+     "grade": "Scientist"
+    },
+     {
+      "id": 5,
+      "name": "JAlexander Lee",
+      "yearsOfExperience": 6,
+      "agence": "JAXA",
+      "height": 175,
+      "weight": 78,
+      "grade": "Mission Specialist"
+     }
+]
+

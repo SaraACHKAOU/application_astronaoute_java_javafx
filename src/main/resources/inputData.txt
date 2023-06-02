@@ -1,0 +1,3 @@
+1,John Doe,NASA,180,75,5,Commander
+2,Jane Smith,ESA,170,65,3,Engineer
+3,Michael Johnson,Roscosmos,190,85,8,Scientist
